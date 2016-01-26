@@ -2,6 +2,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.Set;
 
+/* Find the unique number if in a given array all the elements except one are repeated.*/
 
 public class ArrayTest1 {
 	
