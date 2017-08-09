@@ -1,2 +1,0 @@
-# Algorithmica
-Sample Programs
