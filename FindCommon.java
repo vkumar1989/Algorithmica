@@ -5,6 +5,7 @@ import java.util.HashSet;
 
 public class FindCommon {
 
+	//Using Hashset
 	public static int findCommon1(int[] input1, int[] input2) {
 		HashSet<Integer> hs = new HashSet<Integer>();
 		for (Integer e : input1) {
@@ -17,6 +18,7 @@ public class FindCommon {
 		}
 		return ncommon;
 	}
+	
 	
 	public static int findCommon2(int[] input1, int[] input2) {
 		Arrays.sort(input1);
